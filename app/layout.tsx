@@ -97,6 +97,44 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
+      
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Solar Installation Lausanne",
+  "url": "https://solaranlagen-lausanne.24hey.com",
+  "logo": "https://solaranlagen-lausanne.24hey.com/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+39 123 456 7890",
+    "contactType": "customer service",
+    "areaServed": "US",
+    "availableLanguage": [
+      "en"
+    ]
+  }
+})
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://solaranlagen-lausanne.24hey.com",
+  "name": "Solar Installation Lausanne",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://solaranlagen-lausanne.24hey.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+})
+          }}
+        />
       </body>
     </html>
   );

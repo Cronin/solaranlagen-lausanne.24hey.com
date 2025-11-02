@@ -9,6 +9,46 @@ import FAQ from '@/components/FAQ';
 export default function HomePage() {
   return (
     <>
+
+      {/* Service Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "serviceType": "Solar Installation",
+            "provider": {
+              "@type": "Electrician",
+              "name": "Solar Installation Lausanne"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Lausanne"
+            }
+          })
+        }}
+      />
+
+      {/* BreadcrumbList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://solaranlagen-lausanne.24hey.com"
+              }
+            ]
+          })
+        }}
+      />
+
       <Hero />
       <USPSection />
       <HowItWorks />

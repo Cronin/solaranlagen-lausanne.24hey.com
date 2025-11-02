@@ -1,0 +1,260 @@
+================================================================================
+SWISS SOLAR PANEL SITES - GOOGLE SEARCH CONSOLE SETUP
+================================================================================
+
+Account: 24prontocom@gmail.com
+Parent Domain: 24hey.com
+Cloudflare Zone ID: b10be9958d94d8a72e7116d2c257d9ff
+Total Sites: 10
+
+Sites to process:
+    1. https://solaranlagen-zurich.24hey.com
+    2. https://solaranlagen-aargau.24hey.com
+    3. https://solaranlagen-luzern.24hey.com
+    4. https://solaranlagen-basel.24hey.com
+    5. https://solaranlagen-bern.24hey.com
+    6. https://solaranlagen-stgallen.24hey.com
+    7. https://solaranlagen-winterthur.24hey.com
+    8. https://solaranlagen-zug.24hey.com
+    9. https://solaranlagen-geneve.24hey.com
+   10. https://solaranlagen-lausanne.24hey.com
+
+🔑 Initializing Google Search Console & Site Verification APIs...
+✅ APIs initialized
+
+🚀 Starting processing of 10 sites...
+
+
+
+################################################################################
+# SITE 1/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-zurich.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-zurich.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-zurich.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-zurich.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-zurich.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-zurich.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 2/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-aargau.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-aargau.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-aargau.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-aargau.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-aargau.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-aargau.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 3/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-luzern.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-luzern.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-luzern.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-luzern.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-luzern.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-luzern.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 4/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-basel.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-basel.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-basel.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-basel.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-basel.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-basel.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 5/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-bern.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-bern.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-bern.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-bern.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-bern.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-bern.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 6/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-stgallen.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-stgallen.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-stgallen.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-stgallen.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-stgallen.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-stgallen.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 7/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-winterthur.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-winterthur.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-winterthur.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-winterthur.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-winterthur.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-winterthur.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 8/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-zug.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-zug.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-zug.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-zug.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-zug.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-zug.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 9/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-geneve.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-geneve.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-geneve.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-geneve.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-geneve.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-geneve.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+⏳ Waiting 5 seconds before next site...
+
+
+################################################################################
+# SITE 10/10
+################################################################################
+
+================================================================================
+PROCESSING: https://solaranlagen-lausanne.24hey.com/
+================================================================================
+
+➕ Adding https://solaranlagen-lausanne.24hey.com/ to Google Search Console...
+✅ Successfully added https://solaranlagen-lausanne.24hey.com/
+
+🎫 Getting DNS verification token for https://solaranlagen-lausanne.24hey.com/...
+❌ Failed to get token: {'error': {'code': 400, 'message': 'The site https://solaranlagen-lausanne.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-lausanne.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+
+
+================================================================================
+FINAL REPORT - SWISS SOLAR PANEL SITES TO GOOGLE SEARCH CONSOLE
+================================================================================
+
+Timestamp: 2025-10-23 16:34:47
+
+📊 SUMMARY:
+   Sites Added: 10/10
+   Sites Verified: 0/10
+   Sitemaps Submitted: 0/10
+   TXT Records Created: 0/10
+   Errors: 10
+
+✅ SITES ADDED (10):
+   ✓ https://solaranlagen-zurich.24hey.com/
+   ✓ https://solaranlagen-aargau.24hey.com/
+   ✓ https://solaranlagen-luzern.24hey.com/
+   ✓ https://solaranlagen-basel.24hey.com/
+   ✓ https://solaranlagen-bern.24hey.com/
+   ✓ https://solaranlagen-stgallen.24hey.com/
+   ✓ https://solaranlagen-winterthur.24hey.com/
+   ✓ https://solaranlagen-zug.24hey.com/
+   ✓ https://solaranlagen-geneve.24hey.com/
+   ✓ https://solaranlagen-lausanne.24hey.com/
+
+✅ SITES VERIFIED (0):
+
+✅ SITEMAPS SUBMITTED (0):
+
+📝 TXT RECORDS CREATED IN CLOUDFLARE (0):
+
+❌ ERRORS (10):
+   ✗ Failed to get token for https://solaranlagen-zurich.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-zurich.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-zurich.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-aargau.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-aargau.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-aargau.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-luzern.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-luzern.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-luzern.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-basel.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-basel.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-basel.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-bern.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-bern.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-bern.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-stgallen.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-stgallen.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-stgallen.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-winterthur.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-winterthur.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-winterthur.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-zug.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-zug.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-zug.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-geneve.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-geneve.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-geneve.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+   ✗ Failed to get token for https://solaranlagen-lausanne.24hey.com/: {'error': {'code': 400, 'message': 'The site https://solaranlagen-lausanne.24hey.com of type INET_DOMAIN is invalid.', 'errors': [{'message': 'The site https://solaranlagen-lausanne.24hey.com of type INET_DOMAIN is invalid.', 'domain': 'global', 'reason': 'invalidParameter'}]}}
+
+🔗 SEARCH CONSOLE LINKS:
+   solaranlagen-zurich: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-zurich.24hey.com%2F
+   solaranlagen-aargau: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-aargau.24hey.com%2F
+   solaranlagen-luzern: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-luzern.24hey.com%2F
+   solaranlagen-basel: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-basel.24hey.com%2F
+   solaranlagen-bern: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-bern.24hey.com%2F
+   solaranlagen-stgallen: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-stgallen.24hey.com%2F
+   solaranlagen-winterthur: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-winterthur.24hey.com%2F
+   solaranlagen-zug: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-zug.24hey.com%2F
+   solaranlagen-geneve: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-geneve.24hey.com%2F
+   solaranlagen-lausanne: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsolaranlagen-lausanne.24hey.com%2F
+
+================================================================================
+
+💾 Full report saved to: swiss_solar_gsc_report_20251023_163447.json
+================================================================================
+
+
+⚠️  WARNING: Only 0/10 sites verified
+
