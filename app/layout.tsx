@@ -89,6 +89,20 @@ export default function RootLayout({
     <html lang="fr-CH" className="scroll-smooth">
       <head>
         <StructuredData />
+      
+      {/* Google Analytics 4 */}
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=G-CPFVSVLPGP`}
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-CPFVSVLPGP');
+        `}
+      </Script>
       </head>
       <body className={inter.className}>
         <Suspense fallback={null}>
